@@ -1,4 +1,4 @@
-"Este es el nuevo cambio que se hizo para el deber"
+"Este es el nuevo cambio que se hizo para el deber de Calidad de Software"
 import os
 import json 
 import requests
